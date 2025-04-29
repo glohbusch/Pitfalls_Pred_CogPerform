@@ -6,12 +6,6 @@ This repository contains the public code associated with the publication: "Pitfa
 
 This repository provides the code used in our study investigating pitfalls when applying machine learning techniques to predict cognitive function performance. 
 
-## 📁 Repository Structure
-
-├── notebooks/ # Jupyter notebook for main analyses 
-
-└── README.md # Project overview
-
 ## 📊 Data
 
 Necessary files for running the code:
