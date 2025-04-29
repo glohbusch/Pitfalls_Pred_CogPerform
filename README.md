@@ -8,7 +8,8 @@ This repository provides the code used in our study investigating pitfalls when 
 
 ## 📁 Repository Structure
 
-├── notebooks/ # Jupyter notebooks for main analyses 
+├── notebooks/ # Jupyter notebook for main analyses 
+
 └── README.md # Project overview
 
 ## 📊 Data
