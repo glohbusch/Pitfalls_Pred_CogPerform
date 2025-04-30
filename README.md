@@ -8,13 +8,15 @@ This repository provides the code used in our study investigating pitfalls when 
 
 ## 📊 Data
 
-Necessary files for running the code:
+File that contains subjectb data: superultra_final_dataNN.csv
 
-Data: superultra_final_dataNN.csv
-
-Variable names: EF_names_TMT.csv
+File that contains variables names: EF_names_TMT.csv
 
 Part of the data used in this study is publicly available upon request. Researchers who wish to acquire access to the data are kindly asked to contact Julia A. Camilleri at spexdata@fz-juelich.de, as described in the related publication Camilleri, J.A., Volkening, J. et al. SpEx: a German-language dataset of speech and executive function performance. Sci Rep 14, 9431 (2024). https://doi.org/10.1038/s41598-024-58617-3 
+
+## 🐍 Code
+
+Code for running analyses: Code_Prediction.py & Code_Permutations.py
 
 ## 📚 Citation
 
