@@ -8,7 +8,7 @@ This repository provides the code used in our study investigating pitfalls when 
 
 ## 📊 Data
 
-File that contains subjectb data: superultra_final_dataNN.csv
+File that contains subject data: superultra_final_dataNN.csv
 
 File that contains variables names: EF_names_TMT.csv
 
